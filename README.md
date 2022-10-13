@@ -1,11 +1,30 @@
 # Awesome-WebPunk
-** Curated list of awesomeness involving everything webpunk related. **
+*** Curated list of awesomeness involving everything webpunk related. ***
 
 ## Me:
 - [0x402d8602ef11324bfbb53f7b7ad3acf2c02875e5](https://etherscan.io/address/0x402d8602ef11324bfbb53f7b7ad3acf2c02875e5) - ERC20 & ETH 
-* [rotta.eth](https://etherscan.io/enslookup-search?search=rotta.eth) - ENS 
+- [rotta.eth](https://etherscan.io/enslookup-search?search=rotta.eth) - ENS 
 
-## MEV
+- [PGP]()
+- [GPG]()
+
+- [Website](rottaj.github.io)
+
+
+## Awesome Reading List
+
+#### Books
+- [Pluriverse](https://www.ehu.eus/documents/6902252/12061123/Ashish+Kothari+et+al-Pluriverse+A+Post-Development+Dictionary-2019.pdf/c9f05ea0-d2e7-8874-d91c-09d11a4578a2) A Post-Development Dictionary
+- [Cryptonomicon](https://en.wikipedia.org/wiki/Cryptonomicon)
+- [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash)
+
+- [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel) 
+- [On The Road](https://en.wikipedia.org/wiki/On_the_Road)
+- [Dharma Bums](https://en.wikipedia.org/wiki/The_Dharma_Bums)
+
+#### Blogs & Other
+- [Unqualified Reservations](https://www.unqualified-reservations.org/)
+
 
 
 ## Cryptography
@@ -33,6 +52,10 @@
 - [Merkle Tree Whitepaper](https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkleodb.pdf) 
 - [Signatures in Ethereum](https://medium.com/immunefi/intro-to-cryptography-and-signatures-in-ethereum-2025b6a4a33d#:~:text=elliptic%20curve%20cryptography.-,Digital%20Signatures,the%20hash%20of%20the%20message) - Intro to cryptography & signatures in Ethereum
 
+
+
+
+
 ## Zero-Knowledge
 - [Zero Knowledge Proofs](https://ethereum.org/en/zero-knowledge-proofs/) - Ethereum.org's "What are zero-knowledge proofs?"
 - [Shafi Goldwasser - Interactive Proofs](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.419.8132&rep=rep1&type=pdf)
@@ -50,6 +73,14 @@
 - [Zero Knowledge Blog](https://www.zeroknowledgeblog.com/) - Great blog for Zero Knowledge
 - [Dark Forest Blog](https://blog.zkga.me/) - Dark Forest's Blog on ZKP's
 - [Makysym - Medium](https://medium.com/@imolfar) - More great blog posts for Zero Knowledge
+
+
+
+
+## MEV
+
+
+
 
 
 ## Tokens
