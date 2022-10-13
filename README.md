@@ -22,6 +22,27 @@
 
 
 
+## Frameworks
 
+- [Hardhat]() - 
+- [Foundry]() - 
+
+## Frontend
+- [NextJS](https://nextjs.org/) - Full-Stack React & NodeJs Framework
+- [React](https://reactjs.org/) - Javascript Library 
+- [ChakraUI](https://chakra-ui.com/) - Components for react
+- [React Query](https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/) - State managment tooling.
+
+## Fun 
+- [Dark Forest](https://zkga.me/) - zkSNARK Space Warfare RTS
+
+
+## CTF's
+- [Ethernaut](https://ethernaut.openzeppelin.com/) - OpenZeppelin Ethernaut Challenges
+- [Proto Hackers](https://protohackers.com/problems) - ProtoHackers CTF Challenges
+- [H4CK1NG GOOGLE](https://h4ck1ng.google/home) - 2022 Google CTF Challenges
+
+## Ethereum Clients
+- [Geth](https://geth.ethereum.org/docs/) - Golang Execution client
 
 
