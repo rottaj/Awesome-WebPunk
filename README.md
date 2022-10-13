@@ -2,28 +2,24 @@
 *** Curated list of awesomeness involving everything webpunk related. ***
 
 ## Me:
-- [0x402d8602ef11324bfbb53f7b7ad3acf2c02875e5](https://etherscan.io/address/0x402d8602ef11324bfbb53f7b7ad3acf2c02875e5) - ERC20 & ETH 
+- [0x402d8602ef11324bfbb53f7b7ad3acf2c02875e5](https://etherscan.io/address/0x402d8602ef11324bfbb53f7b7ad3acf2c02875e5) - ERC20 & ETH
 - [rotta.eth](https://etherscan.io/enslookup-search?search=rotta.eth) - ENS 
 
+- [Website](https://rottaj.github.io/)
 - [PGP]()
 - [GPG]()
 
-- [Website](rottaj.github.io)
-
-
 ## Awesome Reading List
-
 #### Books
-- [Pluriverse](https://www.ehu.eus/documents/6902252/12061123/Ashish+Kothari+et+al-Pluriverse+A+Post-Development+Dictionary-2019.pdf/c9f05ea0-d2e7-8874-d91c-09d11a4578a2) A Post-Development Dictionary
 - [Cryptonomicon](https://en.wikipedia.org/wiki/Cryptonomicon)
 - [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash)
-
-- [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel) 
+- [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))
 - [On The Road](https://en.wikipedia.org/wiki/On_the_Road)
 - [Dharma Bums](https://en.wikipedia.org/wiki/The_Dharma_Bums)
 
 #### Blogs & Other
-- [Unqualified Reservations](https://www.unqualified-reservations.org/)
+- [Pluriverse](https://www.ehu.eus/documents/6902252/12061123/Ashish+Kothari+et+al-Pluriverse+A+Post-Development+Dictionary-2019.pdf/c9f05ea0-d2e7-8874-d91c-09d11a4578a2) A Post-Development Dictionary
+- [Unqualified Reservations](https://www.unqualified-reservations.org/) 
 
 
 
