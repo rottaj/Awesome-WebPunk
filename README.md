@@ -72,9 +72,22 @@
 - [Makysym - Medium](https://medium.com/@imolfar) - More great blog posts for Zero Knowledge
 
 
+## Validity (Zk) Rollup Solutions
+- [Scroll](https://scroll.io/)
+- [ZkSync](https://zksync.io/)
+- [Starkware](https://starknet.io/docs/)
+- [Polygon Zero](https://polygon.technology/solutions/polygon-zero/)
 
+## Optimistic Rollup Solutions
+- [Arbitrum](https://bridge.arbitrum.io/)
+- [Optimism](https://www.optimism.io/)
+- [Boba Network](https://boba.network/)
 
-## MEV
+## More Solutions
+- [ZkPorter](https://blog.matter-labs.io/zkporter-a-breakthrough-in-l2-scaling-ed5e48842fbf)
+- [Proto-Danksharding](https://notes.ethereum.org/@vbuterin/proto_danksharding_faq)
+
+- ## MEV
 
 
 
