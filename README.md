@@ -82,6 +82,7 @@
 
 ## Validity (Zk) Rollup Solutions
 - [Scroll](https://scroll.io/)
+-- [How scroll works](https://twitter.com/ChrisYicheng/status/1569266811635642369) - Thread
 - [ZkSync](https://zksync.io/)
 - [Starkware](https://starknet.io/docs/)
 - [Polygon Zero](https://polygon.technology/solutions/polygon-zero/)
