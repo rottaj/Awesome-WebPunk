@@ -138,6 +138,5 @@
 ## Communities, Teams, & Labs
 - [Matter Labs](https://matter-labs.io/) - Creators of zKSync.
 - [0xPark](https://0xpark.com/) - Metaverse creative studio. (Creators of Dark Forest).
-- [zKLabs](https://zklabs.io/#welcome) - ZkLabs
 
 
