@@ -73,6 +73,12 @@
 - [Dark Forest Blog](https://blog.zkga.me/) - Dark Forest's Blog on ZKP's
 - [Makysym - Medium](https://medium.com/@imolfar) - More great blog posts for Zero Knowledge
 
+## ZkEVM
+- [What is a ZkEVM?](https://www.alchemy.com/overviews/zkevm) - Alchemy introduction.
+- [Different types of ZkEVMS](https://www.alchemy.com/overviews/zkevm) - Vitaliks blog.
+- [Popular zKEVM Solutions](https://hackernoon.com/exploring-popular-zkevm-solutions-appliedzkp-matter-labs-hermez-and-sin7y-quick-publication-ltq37ah)
+
+
 
 ## Validity (Zk) Rollup Solutions
 - [Scroll](https://scroll.io/)
@@ -138,5 +144,5 @@
 ## Communities, Teams, & Labs
 - [Matter Labs](https://matter-labs.io/) - Creators of zKSync.
 - [0xPark](https://0xpark.com/) - Metaverse creative studio. (Creators of Dark Forest).
-
+- [Pluriverse.wtf](https://pluriverse.wtf/) - Creators of Moloch DAO (Baal).
 
