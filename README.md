@@ -92,7 +92,7 @@
 - [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559) - Fee Market change for efficient transactions.
 - [EIP-4337](https://eips.ethereum.org/EIPS/eip-4337) - Account Abstraction using alternate mempool.
 - [EIP-3675](https://eips.ethereum.org/EIPS/eip-3675) - Upgrade consensus to Proof-of-Stake.
-
+- [EIP-4844](https://www.eip4844.com/) - Proto-Danksharding
 
 
 ## Frameworks
