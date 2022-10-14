@@ -19,8 +19,10 @@
 - [Dharma Bums](https://en.wikipedia.org/wiki/The_Dharma_Bums)
 
 #### Blogs & Other
+- [xkcd](https://xkcd.com/)
 - [Pluriverse](https://www.ehu.eus/documents/6902252/12061123/Ashish+Kothari+et+al-Pluriverse+A+Post-Development+Dictionary-2019.pdf/c9f05ea0-d2e7-8874-d91c-09d11a4578a2) A Post-Development Dictionary
 - [Unqualified Reservations](https://www.unqualified-reservations.org/) 
+
 
 
 
@@ -122,6 +124,7 @@
 ## Fun 
 - [Dark Forest](https://zkga.me/) - zkSNARK Space Warfare RTS
 - [Pablo The Flamingo](https://pablotheflamingo.com/) - Too cool 4 school
+- [0xdead burn address](https://etherscan.io/address/0x000000000000000000000000000000000000dead) - etherscan
 
 
 ## CTF's
