@@ -17,6 +17,7 @@
 - [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))
 - [On The Road](https://en.wikipedia.org/wiki/On_the_Road)
 - [Dharma Bums](https://en.wikipedia.org/wiki/The_Dharma_Bums)
+- [Greenlights](https://greenlights.com/)
 
 #### Blogs & Other
 - [xkcd](https://xkcd.com/)
