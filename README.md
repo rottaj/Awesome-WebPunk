@@ -137,6 +137,7 @@
 - [Dark Forest](https://zkga.me/) - zkSNARK Space Warfare RTS
 - [Pablo The Flamingo](https://pablotheflamingo.com/) - Too cool 4 school
 - [0xdead burn address](https://etherscan.io/address/0x000000000000000000000000000000000000dead) - etherscan
+- [PoS validator deposit contract](https://etherscan.io/address/0x00000000219ab540356cbb839cbe05303d7705fa) - etherscan
 
 
 ## CTF's
