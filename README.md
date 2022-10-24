@@ -149,6 +149,13 @@
 - [Geth](https://geth.ethereum.org/docs/) - Golang Execution client
 
 ## Communities, Teams, & Labs
+#### Telegram channels
+- [Netsec](https://t.me/RNetsec)
+- [RektHQ](https://t.me/Rekt_HQ)
+- [CIA Officers X-Files](https://t.me/Rekt_HQ)
+- [Hacker News](https://t.me/hackernewslive)
+
+#### Sites
 - [Matter Labs](https://matter-labs.io/) - Creators of zKSync.
 - [0xPark](https://0xpark.com/) - Metaverse creative studio. (Creators of Dark Forest).
 - [Pluriverse.wtf](https://pluriverse.wtf/) - Creators of Moloch DAO (Baal).
