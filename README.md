@@ -32,7 +32,7 @@
 
 ## Basics
 - [OSI Model](https://www.imperva.com/learn/application-security/osi-model/#:~:text=What%20Is%20the%20OSI%20Model,companies%20in%20the%20early%201980s)
--[Concurrency](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/#:~:text=There%20are%20two%20common%20models,writing%20shared%20objects%20in%20memory.)
+- [Concurrency](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/#:~:text=There%20are%20two%20common%20models,writing%20shared%20objects%20in%20memory.)
 
 #### Design Implementations / Patterns
 - [Stateful Vs. Stateless](https://www.thegeeksclan.com/being-stateful-and-stateless/)
