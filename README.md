@@ -30,6 +30,15 @@
 
 
 
+## Basics
+- [OSI Model](https://www.imperva.com/learn/application-security/osi-model/#:~:text=What%20Is%20the%20OSI%20Model,companies%20in%20the%20early%201980s)
+-[Concurrency](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/#:~:text=There%20are%20two%20common%20models,writing%20shared%20objects%20in%20memory.)
+
+#### Design Implementations / Patterns
+- [Stateful Vs. Stateless](https://www.thegeeksclan.com/being-stateful-and-stateless/)
+
+
+
 
 ## Cryptography
 
@@ -55,15 +64,6 @@
 #### Other
 - [Merkle Tree Whitepaper](https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkleodb.pdf) 
 - [Signatures in Ethereum](https://medium.com/immunefi/intro-to-cryptography-and-signatures-in-ethereum-2025b6a4a33d#:~:text=elliptic%20curve%20cryptography.-,Digital%20Signatures,the%20hash%20of%20the%20message) - Intro to cryptography & signatures in Ethereum
-
-
-## Basics
-- [OSI Model](https://www.imperva.com/learn/application-security/osi-model/#:~:text=What%20Is%20the%20OSI%20Model,companies%20in%20the%20early%201980s)
--[Concurrency](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/#:~:text=There%20are%20two%20common%20models,writing%20shared%20objects%20in%20memory.)
-
-#### Design Implementations / Patterns
-- Stateful Vs. Stateless](https://www.thegeeksclan.com/being-stateful-and-stateless/)
-
 
 
 
