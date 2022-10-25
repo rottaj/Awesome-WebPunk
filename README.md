@@ -1,5 +1,5 @@
 # Awesome-WebPunk
-*** Curated list of things I've read over the years. Want to contribute? Open a PR or send me a message!***
+#### Curated list of things I've read over the years. Want to contribute? Open a PR or send me a message!
 
 ## Me:
 - [0x402d8602ef11324bfbb53f7b7ad3acf2c02875e5](https://etherscan.io/address/0x402d8602ef11324bfbb53f7b7ad3acf2c02875e5) - ERC20 & ETH
