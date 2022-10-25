@@ -134,10 +134,13 @@
 - [React Query](https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/) - State managment tooling.
 
 ## Fun 
+#### Blockchain
 - [Dark Forest](https://zkga.me/) - zkSNARK Space Warfare RTS
-- [Pablo The Flamingo](https://pablotheflamingo.com/) - Too cool 4 school
 - [0xdead burn address](https://etherscan.io/address/0x000000000000000000000000000000000000dead) - etherscan
 - [PoS validator deposit contract](https://etherscan.io/address/0x00000000219ab540356cbb839cbe05303d7705fa) - etherscan
+- [Time challenge](https://twitter.com/paladin_marco/status/1584538632810942464) - Twitter thread
+#### Other
+- [Pablo The Flamingo](https://pablotheflamingo.com/) - Too cool 4 school
 
 
 ## CTF's
