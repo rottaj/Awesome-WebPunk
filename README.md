@@ -78,14 +78,14 @@
 - [Dark Forest Blog](https://blog.zkga.me/) - Dark Forest's Blog on ZKP's
 - [Makysym - Medium](https://medium.com/@imolfar) - More great blog posts for Zero Knowledge
 
-## ZkEVM
+#### ZkEVM
 - [What is a ZkEVM?](https://www.alchemy.com/overviews/zkevm) - Alchemy introduction.
 - [Different types of ZkEVMS](https://www.alchemy.com/overviews/zkevm) - Vitaliks blog.
 - [Popular zKEVM Solutions](https://hackernoon.com/exploring-popular-zkevm-solutions-appliedzkp-matter-labs-hermez-and-sin7y-quick-publication-ltq37ah)
 
 
 
-## Validity (Zk) Rollup Solutions
+#### Validity (Zk) Rollup Solutions
 - [Scroll](https://scroll.io/)
 -- [How scroll works](https://twitter.com/ChrisYicheng/status/1569266811635642369) - Thread
 - [ZkSync](https://zksync.io/)
@@ -123,11 +123,11 @@
 
 
 ## Frameworks
+#### Ethereum
+- [Hardhat](https://hardhat.org/) - Ethereum Toolskit (Javascript)
+- [Foundry](https://github.com/foundry-rs/foundry) - Ethereum Toolkit (Rust)
 
-- [Hardhat]() - 
-- [Foundry]() - 
-
-## Frontend
+#### Frontend
 - [NextJS](https://nextjs.org/) - Full-Stack React & NodeJs Framework
 - [React](https://reactjs.org/) - Javascript Library 
 - [ChakraUI](https://chakra-ui.com/) - Components for react
