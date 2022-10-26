@@ -142,9 +142,9 @@
 
 ## Security
 #### Ethereum Tools
-###### Allowance Checkers
--[Revoke.cash](https://revoke.cash/) - Check address erc20 & erc721 approvals.
--[Unrekt.net](https://app.unrekt.net/) - Multi-Chain Compatible (must use wallet connect)
+##### Allowance Checkers
+- [Revoke.cash](https://revoke.cash/) - Check address erc20 & erc721 approvals.
+- [Unrekt.net](https://app.unrekt.net/) - Multi-Chain Compatible (must use wallet connect)
 
 ## Fun 
 #### Blockchain
