@@ -140,6 +140,12 @@
 - [ChakraUI](https://chakra-ui.com/) - Components for react
 - [React Query](https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/) - State managment tooling.
 
+## Security
+#### Ethereum Tools
+###### Allowance Checkers
+-[Revoke.cash](https://revoke.cash/) - Check address erc20 & erc721 approvals.
+-[Unrekt.net](https://app.unrekt.net/) - Multi-Chain Compatible (must use wallet connect)
+
 ## Fun 
 #### Blockchain
 - [Degenscore](https://degenscore.com/) - Show off your degen profile
