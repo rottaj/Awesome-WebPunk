@@ -142,6 +142,7 @@
 
 ## Fun 
 #### Blockchain
+- [Degenscore](https://degenscore.com/) - Show off your degen profile
 - [Dark Forest](https://zkga.me/) - zkSNARK Space Warfare RTS
 - [0xdead burn address](https://etherscan.io/address/0x000000000000000000000000000000000000dead) - etherscan
 - [PoS validator deposit contract](https://etherscan.io/address/0x00000000219ab540356cbb839cbe05303d7705fa) - etherscan
