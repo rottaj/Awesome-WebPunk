@@ -145,6 +145,12 @@
 ##### Allowance Checkers
 - [Revoke.cash](https://revoke.cash/) - Check address erc20 & erc721 approvals.
 - [Unrekt.net](https://app.unrekt.net/) - Multi-Chain Compatible (must use wallet connect)
+##### Audit Tools
+- [Slither](https://github.com/crytic/slither) - Solidity Static Analyzer
+- [Echidna](https://github.com/crytic/echidna) - Smart Contract Fuzzer
+##### Other
+- [Smart Contract Guidelines](https://github.com/crytic/building-secure-contracts) - ToS Guidlines
+- [Security Contacts](https://github.com/crytic/blockchain-security-contacts) - Security Teams 
 
 ## Fun 
 #### Blockchain
