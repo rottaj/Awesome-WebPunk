@@ -163,10 +163,13 @@
 - [Pablo The Flamingo](https://pablotheflamingo.com/) - Too cool 4 school
 
 
-## CTF's
+## CTF's & Challenges
 - [Ethernaut](https://ethernaut.openzeppelin.com/) - OpenZeppelin Ethernaut Challenges
 - [Proto Hackers](https://protohackers.com/problems) - ProtoHackers CTF Challenges
 - [H4CK1NG GOOGLE](https://h4ck1ng.google/home) - 2022 Google CTF Challenges
+##### Leetcode
+- [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
+- [Blind 75](https://leetcode.com/list/xi4ci4ig/)
 
 ## Ethereum Clients
 - [Geth](https://geth.ethereum.org/docs/) - Golang Execution client
