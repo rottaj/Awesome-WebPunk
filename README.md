@@ -172,7 +172,11 @@
 - [Blind 75](https://leetcode.com/list/xi4ci4ig/)
 
 ## Ethereum Clients
+#### Execution Clients
 - [Geth](https://geth.ethereum.org/docs/) - Golang Execution client
+
+#### Beacon Clients
+- [Prysm](https://docs.prylabs.network/docs/getting-started) - Golang Beacon Node
 
 ## Communities, Teams, & Labs
 #### Telegram channels
