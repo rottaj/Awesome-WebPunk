@@ -23,6 +23,10 @@
 - [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) - Helpful tips
 (Will update this, gonna take a while)
 
+- [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
+- [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf)
+
 #### Blogs & Other
 - [xkcd](https://xkcd.com/)
 - [Pluriverse](https://www.ehu.eus/documents/6902252/12061123/Ashish+Kothari+et+al-Pluriverse+A+Post-Development+Dictionary-2019.pdf/c9f05ea0-d2e7-8874-d91c-09d11a4578a2) A Post-Development Dictionary
