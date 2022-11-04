@@ -176,7 +176,9 @@
 - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
 - [Blind 75](https://leetcode.com/list/xi4ci4ig/)
 
-## Ethereum Clients
+## Ethereum Nodes & Clients
+-[Node Networks](https://docs.prylabs.network/docs/concepts/nodes-networks) - Prysm Docs
+
 #### Execution Clients
 - [Geth](https://geth.ethereum.org/docs/) - Golang Execution client
 
