@@ -30,7 +30,8 @@
 #### Blogs & Other
 - [xkcd](https://xkcd.com/)
 - [Pluriverse](https://www.ehu.eus/documents/6902252/12061123/Ashish+Kothari+et+al-Pluriverse+A+Post-Development+Dictionary-2019.pdf/c9f05ea0-d2e7-8874-d91c-09d11a4578a2) A Post-Development Dictionary
-- [Unqualified Reservations](https://www.unqualified-reservations.org/) 
+- [Unqualified Reservations](https://www.unqualified-reservations.org/)
+- [Google Chrome Comic](https://www.google.com/googlebooks/chrome/big_00.html)
 
 
 
