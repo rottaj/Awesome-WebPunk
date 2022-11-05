@@ -33,6 +33,8 @@
 - [Unqualified Reservations](https://www.unqualified-reservations.org/)
 - [Google Chrome Comic Book](https://www.google.com/googlebooks/chrome/big_00.html)
 
+- [Vasa Blockchain](https://hackernoon.com/u/vasa) - Great blogs diving deep into Blockchain & other technology.
+
 
 
 ## Basics
