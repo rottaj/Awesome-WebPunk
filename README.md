@@ -71,7 +71,7 @@
 #### Other
 - [Merkle Tree Whitepaper](https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkleodb.pdf) 
 - [Signatures in Ethereum](https://medium.com/immunefi/intro-to-cryptography-and-signatures-in-ethereum-2025b6a4a33d#:~:text=elliptic%20curve%20cryptography.-,Digital%20Signatures,the%20hash%20of%20the%20message) - Intro to cryptography & signatures in Ethereum
-
+- [Ethereum Block Architecture](https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture) - Stack Overflow
 
 
 ## Zero-Knowledge
