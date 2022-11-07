@@ -148,7 +148,7 @@
 - [React Query](https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/) - State managment tooling.
 
 ## Security
-#### Ethereum Tools
+## Ethereum Tools
 ##### Allowance Checkers
 - [Revoke.cash](https://revoke.cash/) - Check address erc20 & erc721 approvals.
 - [Unrekt.net](https://app.unrekt.net/) - Multi-Chain Compatible (must use wallet connect)
@@ -158,6 +158,10 @@
 ##### Other
 - [Smart Contract Guidelines](https://github.com/crytic/building-secure-contracts) - ToS Guidlines
 - [Security Contacts](https://github.com/crytic/blockchain-security-contacts) - Security Teams 
+## Smart Contract Security
+##### Blogs
+- [Smart Contract Auditor Resources)(https://telegra.ph/All-resources-to-become-a-smart-contract-auditor-09-11) - CIA Officers Blog
+- [How to become a Smart Contract Auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
 
 ## Fun 
 #### Blockchain
