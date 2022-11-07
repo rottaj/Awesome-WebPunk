@@ -160,7 +160,7 @@
 - [Security Contacts](https://github.com/crytic/blockchain-security-contacts) - Security Teams 
 ## Smart Contract Security
 ##### Blogs
-- [Smart Contract Auditor Resources)(https://telegra.ph/All-resources-to-become-a-smart-contract-auditor-09-11) - CIA Officers Blog
+- [Smart Contract Auditor Resources](https://telegra.ph/All-resources-to-become-a-smart-contract-auditor-09-11) - CIA Officers Blog
 - [How to become a Smart Contract Auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
 
 ## Fun 
