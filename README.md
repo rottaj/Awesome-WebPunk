@@ -205,3 +205,6 @@
 - [0xPark](https://0xpark.com/) - Metaverse creative studio. (Creators of Dark Forest).
 - [Pluriverse.wtf](https://pluriverse.wtf/) - Creators of Moloch DAO (Baal).
 
+## Hacks / Exploits
+#### Ethereum
+- [Solidity Reentancy Attack List](https://github.com/ethereum/solidity/issues/12996#issuecomment-1187381059) - sudo rm -rf /root/ github.
