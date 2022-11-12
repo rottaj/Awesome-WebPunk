@@ -119,8 +119,9 @@
 
 
 ## EVM (Ethereum Virtual Machine)
+#### Opcodes
 - [EVM Opcodes](https://cypherpunks-core.github.io/ethereumbook/13evm.html#evm_opcodes) - List of EVM Opcodes & their functions.
-
+- [EVM Opcodes]((https://www.evm.codes/) - EVM Opcodes
 ## Tokens
 - [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - Token contract for fungible assets.
 - [ERC-721](https://github.com/ethereum/eips/issues/721) - Token standard for non-fungible assets.
