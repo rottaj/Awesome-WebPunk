@@ -118,8 +118,8 @@
 - ## MEV
 
 
-
-
+## EVM (Ethereum Virtual Machine)
+- [EVM Opcodes](https://cypherpunks-core.github.io/ethereumbook/13evm.html#evm_opcodes) - List of EVM Opcodes & their functions.
 
 ## Tokens
 - [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - Token contract for fungible assets.
