@@ -123,6 +123,8 @@
 - [EVM Opcodes](https://cypherpunks-core.github.io/ethereumbook/13evm.html#evm_opcodes) - List of EVM Opcodes & their functions.
 - [EVM Opcodes](https://www.evm.codes/) - EVM Opcodes
 
+#### Blog posts on EVM
+- [Getting Deep into EVM](https://medium.com/swlh/getting-deep-into-evm-how-ethereum-works-backstage-ab6ad9c0d0bf)
 
 ## Tokens
 - [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - Token contract for fungible assets.
