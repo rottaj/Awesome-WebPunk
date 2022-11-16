@@ -34,7 +34,7 @@
 - [Google Chrome Comic Book](https://www.google.com/googlebooks/chrome/big_00.html)
 
 - [Vasa Blockchain](https://hackernoon.com/u/vasa) - Great blogs diving deep into Blockchain & other technology.
-
+- [Understanding the Ethereum Yellow Paper](https://ethereum.org/en/developers/tutorials/yellow-paper-evm/#main-content) - Ethereum.org
 
 
 ## Basics
