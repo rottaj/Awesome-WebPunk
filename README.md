@@ -35,7 +35,7 @@
 
 - [Vasa Blockchain](https://hackernoon.com/u/vasa) - Great blogs diving deep into Blockchain & other technology.
 - [Understanding the Ethereum Yellow Paper](https://ethereum.org/en/developers/tutorials/yellow-paper-evm/#main-content) - Ethereum.org
-
+- [Paris Hardfork Execution-Specs](https://ethereum.github.io/execution-specs/autoapi/ethereum/paris/index.html) - Written in Python
 
 ## Basics
 - [OSI Model](https://www.imperva.com/learn/application-security/osi-model/#:~:text=What%20Is%20the%20OSI%20Model,companies%20in%20the%20early%201980s)
