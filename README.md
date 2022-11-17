@@ -32,10 +32,12 @@
 - [Pluriverse](https://www.ehu.eus/documents/6902252/12061123/Ashish+Kothari+et+al-Pluriverse+A+Post-Development+Dictionary-2019.pdf/c9f05ea0-d2e7-8874-d91c-09d11a4578a2) A Post-Development Dictionary
 - [Unqualified Reservations](https://www.unqualified-reservations.org/)
 - [Google Chrome Comic Book](https://www.google.com/googlebooks/chrome/big_00.html)
+- [Twitter Engineering Blog](https://blog.twitter.com/engineering/en_us)
 
 - [Vasa Blockchain](https://hackernoon.com/u/vasa) - Great blogs diving deep into Blockchain & other technology.
 - [Understanding the Ethereum Yellow Paper](https://ethereum.org/en/developers/tutorials/yellow-paper-evm/#main-content) - Ethereum.org
 - [Paris Hardfork Execution-Specs](https://ethereum.github.io/execution-specs/autoapi/ethereum/paris/index.html) - Written in Python
+- [Manhattan Twitter](https://blog.twitter.com/engineering/en_us/a/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale) - Twitters internally-developed distributed key-value store.
 
 ## Basics
 - [OSI Model](https://www.imperva.com/learn/application-security/osi-model/#:~:text=What%20Is%20the%20OSI%20Model,companies%20in%20the%20early%201980s)
