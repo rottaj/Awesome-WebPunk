@@ -167,6 +167,7 @@
 - [Security Contacts](https://github.com/crytic/blockchain-security-contacts) - Security Teams 
 ## Smart Contract Security
 ##### Docs
+- [Common Vulns in Smart Contract](https://xmind.app/m/2zbPP7/) - Nice UI
 - [Solcurity Standards](https://github.com/transmissions11/solcurity) - Transmissions11 Github
 - ##### Blogs
 - [Smart Contract Auditor Resources](https://telegra.ph/All-resources-to-become-a-smart-contract-auditor-09-11) - CIA Officers Blog
