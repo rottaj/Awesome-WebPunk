@@ -39,6 +39,10 @@
 - [Paris Hardfork Execution-Specs](https://ethereum.github.io/execution-specs/autoapi/ethereum/paris/index.html) - Written in Python
 - [Manhattan Twitter](https://blog.twitter.com/engineering/en_us/a/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale) - Twitters internally-developed distributed key-value store.
 
+#### Awesome - Awesome Lists
+- [Awesome Python](https://github.com/vinta/awesome-python)
+- [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems)
+
 ## Basics
 - [OSI Model](https://www.imperva.com/learn/application-security/osi-model/#:~:text=What%20Is%20the%20OSI%20Model,companies%20in%20the%20early%201980s)
 - [Concurrency](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/#:~:text=There%20are%20two%20common%20models,writing%20shared%20objects%20in%20memory.)
