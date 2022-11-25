@@ -21,6 +21,7 @@
 
 #### Research Papers
 - [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) - Helpful tips
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love) - Github lists
 (Will update this, gonna take a while)
 
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
